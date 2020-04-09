@@ -4,9 +4,13 @@ ShutDownTimer is a simple GUI for the windows "shutdown" command. You can schedu
 You know when you leave you PC downloading, uploading, or doing whatever, and you don't want to wait for it to complete so you can shut it off? You can schedule a shutdown trought windows cmd, but you'd have to memorize the command, and convert the time you want to seconds. If you want to cancel the shutdown, well, that's another command to memorize. ShutDown Timer does all of that for you while giving you a handy little timer.
 
 
+# Support my work
+Consider helping me with any amount so I can keep updating the software and creating new tools. (also, maybe having lunch?)</br></br>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEQ5C56XVNBAN&source=url)
+
+
 # Installing
-If you want to support me AND get a pre-compiled, ready to run portable version of the app, you can get it, for $0,99 with [![paypal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/pp-acceptance-small.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8HG3DXFNS9FNU) .
-If you're a bit more advanced and my eternal gratitude is not valuable enough for you, you can get it for free by compiling it yourself, following the instructions below (it's not that hard):
+Get the compiled release on the [releases](https://github.com/bruneleno/ProjTimeMachine/releases) page. Just run the EXE and make shure you have all the additional files and folders.
 
 
 # Compilation
