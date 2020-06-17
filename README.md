@@ -9,7 +9,7 @@ Consider helping me with any amount so I can keep updating the software and crea
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEQ5C56XVNBAN&source=url)
 
 
-# Installing
+# [Download the latest version](https://github.com/bruneleno/ShutDownTimer/releases)
 Get the compiled release on the [releases](https://github.com/bruneleno/ShutDownTimer/releases) page. Just run the EXE.
 
 
